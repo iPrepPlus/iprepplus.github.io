@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://iprepplus.github.io/atom.xml" rel="self"/>
-  <link href="http://iprepplus.github.io/"/>
-  <updated>2015-10-15T21:55:12-06:00</updated>
-  <id>http://iprepplus.github.io/</id>
+  <title><![CDATA[iPrepPlus -]]></title>
+  <link href="http://blog.iprepplus.com//atom.xml" rel="self"/>
+  <link href="http://blog.iprepplus.com//"/>
+  <updated>2015-10-15T22:03:08-06:00</updated>
+  <id>http://blog.iprepplus.com//</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[iPrepPlus]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

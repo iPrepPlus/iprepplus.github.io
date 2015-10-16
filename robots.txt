@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://iprepplus.github.io/sitemap.xml 
+Sitemap: http://blog.iprepplus.com//sitemap.xml 

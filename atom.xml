@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[iPrepPlus -]]></title>
+  <title><![CDATA[iPrepPlus]]></title>
   <link href="http://blog.iprepplus.com//atom.xml" rel="self"/>
   <link href="http://blog.iprepplus.com//"/>
-  <updated>2015-10-15T22:03:08-06:00</updated>
+  <updated>2015-10-15T22:05:26-06:00</updated>
   <id>http://blog.iprepplus.com//</id>
   <author>
     <name><![CDATA[iPrepPlus]]></name>

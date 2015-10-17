@@ -9,7 +9,7 @@
   <meta name="author" content="iPrepPlus">
 
   
-  <meta name="description" content=" Blog Archive Recent Posts ">
+  <meta name="description" content="Blog Archive About iPrepPlus (@getiPrepPlus) iPrepPlus is a comprehensive curriculum review course for high school students to maximize their &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -29,6 +29,27 @@
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+<!-- Social media content metadata -->
+
+<meta property="fb:admins" content="294351927427660" />
+<meta property="og:title" content="Blog Archive" />
+<meta property="og:site_name" content="iPrepPlus" />
+<meta property="og:url" content="http://blog.iprepplus.com//blog/archives//" />
+<meta property="og:description" content="Blog Archive About iPrepPlus (@getiPrepPlus) iPrepPlus is a comprehensive curriculum review course for high school students to maximize their results on diploma exams! Get yours today. QR-Code&trade &hellip;" />
+<meta property="og:author" content="https://www.facebook.com/getiPrepPlus" />
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:site" content="getiPrepPlus" />
+<meta property="twitter:url" content="http://blog.iprepplus.com//blog/archives/" />
+<meta property="twitter:title" content="Blog Archive" />
+<meta property="twitter:description" content="Blog Archive About iPrepPlus (@getiPrepPlus) iPrepPlus is a comprehensive curriculum review course for high school students to maximize their results on diploma exams! Get yours today. QR-Code&trade &hellip;" />
+<meta property="twitter:creator" content="getiPrepPlus" />
+
 
   
   <script type="text/javascript">
@@ -50,7 +71,7 @@
   <header role="banner"><hgroup>
   <h1><a href="/">iPrepPlus</a></h1>
   
-    <h2>Your Premium Choice for Diploma Exam Preparation!</h2>
+    <h2><u>Unlimited Home</u> - Study Support - For the Price of <u>One Hour</u> of Traditional Tutoring! <br/> Home Support to Classroom Learning</h2>
   
 </hgroup>
 
@@ -68,10 +89,12 @@
 </form>
   
 <ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/"><i class="fa fa-pencil-square-o"></i> Blog</a></li>
+  <li><a href="/blog/archives"><i class="fa fa-archive"></i> Archives</a></li>
+  <li><a href="https://www.facebook.com/getiPrepPlus/"><i class="fa fa-facebook-square"></i> Facebook</a></li>
+  <li><a href="https://twitter.com/getiPrepPlus/"><i class="fa fa-twitter-square"></i> Twitter</a></li>
+  <li><a href="http://www.getiPrepPlus.com"><i class="fa fa-external-link"></i> Register</a></li>
 </ul>
-
 </nav>
   <div id="main">
     <div id="content">
@@ -95,10 +118,55 @@
 <aside class="sidebar">
   
     
+<section>
+  <h1>About</h1>
+  <div id="twitter-profile" style="margin-top:0.5em;">
+    <p>
+      <strong>iPrepPlus</strong> 
+      (<a href="http://twitter.com/getiPrepPlus">@getiPrepPlus</a>)
+    </p>
+    <p>iPrepPlus is a comprehensive curriculum review course for high school students to maximize their results on diploma exams! Get yours today.</p>
+  </div>
+  <script type="text/javascript">
+    $(function(){
+        var container = $('#twitter-profile'),
+            user = "getiPrepPlus";
+        
+        function parseTwLinks(s) {
+          var twUrl = "http://www.twitter.com/"
+          s = s.replace(/ (@([\w]+))/g, function(match, p1, p2) {
+              return " <a href='"+twUrl+p2+"'>"+p1+"</a>"
+          }).replace(/ (#([\w]+))/g, function(match, p1, p2) {
+              return " <a href='"+twUrl+"#!/search?q=%23"+p2+"'>"+p1+"</a>"
+          })
+          return s
+        }
+
+        $.ajax({
+            url: "http://api.twitter.com/1/users/show.json?include_entities=false&screen_name="+user+"&callback=?"
+          , type: 'GET'
+          , dataType: 'jsonp'
+          , error: function (err) { $('#twitter-profile').addClass('error');  }
+          , success: function(data) {
+              container.html('<img class="left" src="http://api.twitter.com/1/users/profile_image/'+user+'.json?size=bigger" alt="@'+user+'"><p><strong>'+data.name+'</strong> (<a href="http://twitter.com/'+user+'">@'+user+'</a>)<br/>'+data.location+'</p><p>'+parseTwLinks(data.description)+'</p>');
+            }
+        })
+      });
+  </script>
+</section>
+
 
 
 
 <section>
+<h1 style="display: none! important">QR-Code<abbr title="The word 'QR Code' is a registered trademark of DENSO WAVE INCORPORATED. It applies only for the word 'QR Code', not for image.">&trade;</abbr></h1>
+<a href="http://iprepplus.com/"><img class="center" src="http://chart.apis.google.com/chart?chs=150x150&cht=qr&chld=|0&chco=165B94&chl=http://iprepplus.com/" alt="post-qrcode"></a>
+
+<a href="http://blog.iprepplus.com//blog/archives/index.html" style="display: none! important"><img src="http://chart.apis.google.com/chart?chs=150x150&cht=qr&chld=|0&chco=165B94&chl=http://blog.iprepplus.com//blog/archives/index.html" alt="post-qrcode"></a>
+</section>
+<section>
+	<a href="http://iprepplus.com/"><img id="sidebarimages" src="/images/iprep-guy.png"></img></a>
+</section><section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     

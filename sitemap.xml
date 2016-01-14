@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.iprepplus.com//exceptional-value-unbelievable-price-limited-time-offer/</loc>
+    <lastmod>2016-01-13T21:58:56-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://blog.iprepplus.com//global-citizens/</loc>
     <lastmod>2016-01-01T09:30:15-07:00</lastmod>
   </url>
@@ -29,5 +33,11 @@
   </url>
   <url>
     <loc>http://blog.iprepplus.com//blog/categories/community-support/</loc>
+  </url>
+  <url>
+    <loc>http://blog.iprepplus.com//blog/categories/exceptional-value/</loc>
+  </url>
+  <url>
+    <loc>http://blog.iprepplus.com//blog/categories/unbelievable-price/</loc>
   </url>
 </urlset>

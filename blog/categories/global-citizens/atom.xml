@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Global Citizens | iPrepPlus]]></title>
-  <link href="http://blog.iprepplus.com//blog/categories/global-citizens/atom.xml" rel="self"/>
-  <link href="http://blog.iprepplus.com//"/>
-  <updated>2016-05-17T17:50:27-06:00</updated>
-  <id>http://blog.iprepplus.com//</id>
+  <title><![CDATA[Category: Global Citizens | Diplomax]]></title>
+  <link href="http://blog.diplomax.ca//blog/categories/global-citizens/atom.xml" rel="self"/>
+  <link href="http://blog.diplomax.ca//"/>
+  <updated>2016-10-17T21:57:27-06:00</updated>
+  <id>http://blog.diplomax.ca//</id>
   <author>
-    <name><![CDATA[iPrepPlus]]></name>
+    <name><![CDATA[Diplomax]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Global Citizens]]></title>
-    <link href="http://blog.iprepplus.com//global-citizens/"/>
+    <link href="http://blog.diplomax.ca//global-citizens/"/>
     <updated>2016-01-01T09:30:15-07:00</updated>
-    <id>http://blog.iprepplus.com//global-citizens</id>
+    <id>http://blog.diplomax.ca//global-citizens</id>
     <content type="html"><![CDATA[<p><img class="center" src="/images/global-citizen-img1.jpg" title="Bali Students" ></p>
 
 <p>Technology has changed our world making it a global community – but not all citizens in this global community have access to the same educational opportunities to make their life better.  In a developed country, education is perceived as a “right” and not often valued, but in a third-world country education is seen as a “privilege” for those very few who can afford it.  This is definitely the case in the island of Bali, Indonesia.</p>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.iprepplus.com//sitemap.xml 
+Sitemap: http://blog.diplomax.ca//sitemap.xml 

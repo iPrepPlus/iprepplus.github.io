@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Alberta | Diplomax]]></title>
   <link href="http://blog.diplomax.ca//blog/categories/alberta/atom.xml" rel="self"/>
   <link href="http://blog.diplomax.ca//"/>
-  <updated>2016-12-18T10:31:46-07:00</updated>
+  <updated>2016-12-18T10:33:21-07:00</updated>
   <id>http://blog.diplomax.ca//</id>
   <author>
     <name><![CDATA[Diplomax]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.diplomax.ca//study-schedules-long-term/"/>
     <updated>2016-05-08T12:17:05-06:00</updated>
     <id>http://blog.diplomax.ca//study-schedules-long-term</id>
-    <content type="html"><![CDATA[<p>{% img center /images/grades.jpg &ldquo;Girls with grades&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/grades.jpg" title="&ldquo;Girls with grades&rdquo;" ></p>
 
 <p>Have you ever read the story of <em>The Hare and the Tortoise?</em>  It is a delightful children’s story of a race between two animal friends who each are confident of their ability to win a race.  The Hare sets off to a speedy start and covers a significant amount of territory before deciding he has enough of a head start on the Tortoise that he can stop for a rest.  He settles under a shady tree and enjoys a nap, confident that he can sprint to the finish line well before the Tortoise can catch up to him.</p>
 
@@ -35,7 +35,7 @@
 
 <p><strong>Short-term Study Schedules</strong> are often implemented several days or weeks before an exam and require you to prioritize the time you spend on each topic or concept.  It may be difficult to find a “starting point”.  Do you focus on the things that are most important in the subject or on the concepts that are most challenging to you? Like the Hare, your focus may change before the end of the race.  You may skim over content that you feel you have a firm understanding of in favor of focusing on topics that feel less confident about.  Your focus may not be as consistent or as strong as it needs to be for the duration of your study or exam preparation time. The advantage of a short-term study schedule is that you gain a sense of confidence as you “check off” the topics and concepts you feel confident about.</p>
 
-<p>{% img right /images/panic.jpeg &ldquo;Panic&rdquo; %}</p>
+<p><img class="right" src="/images/panic.jpeg" title="&ldquo;Panic&rdquo;" ></p>
 
 <p><strong>Panic Study Schedules</strong> usually happen “the night before” the exam – when you realize that you do not have enough time to adequately prepare for your exam.  Although this study schedule requires the least amount of time commitment, it rarely allows you to achieve your potential.  Like the Hare, leaving too much to the end makes it impossible to finish what needs to be done.  However, any effort is better than doing nothing.</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Global Citizens | Diplomax]]></title>
   <link href="http://blog.diplomax.ca//blog/categories/global-citizens/atom.xml" rel="self"/>
   <link href="http://blog.diplomax.ca//"/>
-  <updated>2016-12-18T10:31:46-07:00</updated>
+  <updated>2016-12-18T10:33:21-07:00</updated>
   <id>http://blog.diplomax.ca//</id>
   <author>
     <name><![CDATA[Diplomax]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.diplomax.ca//global-citizens/"/>
     <updated>2016-01-01T09:30:15-07:00</updated>
     <id>http://blog.diplomax.ca//global-citizens</id>
-    <content type="html"><![CDATA[<p>{% img center /images/global-citizen-img1.jpg Bali Students %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/global-citizen-img1.jpg" title="Bali Students" ></p>
 
 <p>Technology has changed our world making it a global community – but not all citizens in this global community have access to the same educational opportunities to make their life better.  In a developed country, education is perceived as a “right” and not often valued, but in a third-world country education is seen as a “privilege” for those very few who can afford it.  This is definitely the case in the island of Bali, Indonesia.</p>
 
@@ -27,11 +27,11 @@
 
 <p></p>
 
-<p>{% img right /images/global-citizen-img2.jpg 400 Bali Students %}</p>
+<p><img class="right" src="/images/global-citizen-img2.jpg" width="400" title="Bali Students" ></p>
 
 <p>East Bali is the poorest part of the island where the average income is $100 per month – or about $3 a day.  Think about trying to support a family of six or more on $3 a day!  Although the Indonesian government provides free education in its government run schools, there are not schools in every village.  Families must pay for school supplies, transportation and at least three school uniforms for each child before a child can attend school.  It is no surprise that not all children – even from the same family –  can go to school when families are struggling to buy rice to eat, clothing for their family, and provide some sort of living accommodation.  Education is viewed as the ultimate privilege and certain pathway to a better life.</p>
 
-<p>{% img left /images/global-citizen-img3.jpg 400 Bali Students %}</p>
+<p><img class="left" src="/images/global-citizen-img3.jpg" width="400" title="Bali Students" ></p>
 
 <p>In a global community we are all responsible for the well-being of each other.  Sequel Solutions Inc., through the sale of iPrep Plus Electronic Study Notes and Video Support resource packages, pledges to provide on-going financial support to enhance the educational opportunities for the children in East Bali.   The financial support goes to provide free after school and weekend classes for all children.  The Balinese teacher is provided and there is no cost to the families for the educational supplies and materials.  Children learn basic English, enhance their Math skills, practice reading and writing, and enjoy some cultural activities.</p>
 

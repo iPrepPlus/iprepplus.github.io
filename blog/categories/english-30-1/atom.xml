@@ -4,7 +4,7 @@
   <title><![CDATA[Category: English 30-1 | Diplomax]]></title>
   <link href="http://blog.diplomax.ca//blog/categories/english-30-1/atom.xml" rel="self"/>
   <link href="http://blog.diplomax.ca//"/>
-  <updated>2016-12-18T10:31:46-07:00</updated>
+  <updated>2016-12-18T10:33:21-07:00</updated>
   <id>http://blog.diplomax.ca//</id>
   <author>
     <name><![CDATA[Diplomax]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.diplomax.ca//iprep-plus-electronic-study-notes-and-video-support/"/>
     <updated>2016-12-18T10:14:00-07:00</updated>
     <id>http://blog.diplomax.ca//iprep-plus-electronic-study-notes-and-video-support</id>
-    <content type="html"><![CDATA[<p>{% img center /images/iprep.png iPrep %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/iprep.png" title="iPrep" ></p>
 
 <p>The <strong>iPrep Plus Electronic Study Notes and Video Support</strong> resources are unique!  The resources are an electronic resource package that can be downloaded to a personal device or printed and used at home.  They combine comprehensive study notes with short videos to help you independently review course content and clarify understanding.</p>
 
@@ -45,7 +45,7 @@ Year-long Support to Classroom Learning.</p>
     <link href="http://blog.diplomax.ca//diplomax-in-class-the-tradition-continues/"/>
     <updated>2016-11-03T22:09:11-06:00</updated>
     <id>http://blog.diplomax.ca//diplomax-in-class-the-tradition-continues</id>
-    <content type="html"><![CDATA[<p>{% img center /images/blog-nov-3.png Question %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/blog-nov-3.png" title="Question" ></p>
 
 <p>Tutorial and diploma prep classes have long been offering services to students preparing to write the January and June provincial diploma exams.  For Edmonton and area students, DIPLOMAX In-Class is offering face-to-face, diploma prep review sessions in Biology 30, Chemistry 30, English 30-1, Math 30-1, Math 30-2, Physics 30, Science 30, and Social 30-1.  The comprehensive review sessions in each subject are scheduled from 9:00 am to 5:00 pm on Saturday and Sunday. The classes are held at the University of Alberta Edmonton Campus.  The two-day format makes it easier for students who work or are travelling from surrounding areas to participate in the review sessions.</p>
 
@@ -68,7 +68,7 @@ Year-long Support to Classroom Learning.</p>
     <link href="http://blog.diplomax.ca//press-release-province-wide-launch-of-diplomax-dot-ca/"/>
     <updated>2016-10-17T21:21:43-06:00</updated>
     <id>http://blog.diplomax.ca//press-release-province-wide-launch-of-diplomax-dot-ca</id>
-    <content type="html"><![CDATA[<p>{% img center /images/DIPLOMAX.CA.png Question %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/DIPLOMAX.CA.png" title="Question" ></p>
 
 <p>Writing any diploma exams this year?  Looking for face-to-face help to prepare for the January or June diplomas?  DIPLOMAX In-Class has it for Edmonton and areas students!  Don’t live close enough to Edmonton to participate?  Don’t worry!  DIPLOMAX On-Line is for you!  It is a comprehensive VIDEO REVIEW that comes with a complimentary copy of the Instructor’s Study Notes.  Looking for something that you can use all year long with class assignments, quizzes and unit tests?  iPrep Plus has just what you are looking for!  Use the electronic study notes with video support for the 10 toughest topics!</p>
 
@@ -91,7 +91,7 @@ Year-long Support to Classroom Learning.</p>
     <link href="http://blog.diplomax.ca//study-schedules-long-term/"/>
     <updated>2016-05-08T12:17:05-06:00</updated>
     <id>http://blog.diplomax.ca//study-schedules-long-term</id>
-    <content type="html"><![CDATA[<p>{% img center /images/grades.jpg &ldquo;Girls with grades&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/grades.jpg" title="&ldquo;Girls with grades&rdquo;" ></p>
 
 <p>Have you ever read the story of <em>The Hare and the Tortoise?</em>  It is a delightful children’s story of a race between two animal friends who each are confident of their ability to win a race.  The Hare sets off to a speedy start and covers a significant amount of territory before deciding he has enough of a head start on the Tortoise that he can stop for a rest.  He settles under a shady tree and enjoys a nap, confident that he can sprint to the finish line well before the Tortoise can catch up to him.</p>
 
@@ -108,7 +108,7 @@ Year-long Support to Classroom Learning.</p>
 
 <p><strong>Short-term Study Schedules</strong> are often implemented several days or weeks before an exam and require you to prioritize the time you spend on each topic or concept.  It may be difficult to find a “starting point”.  Do you focus on the things that are most important in the subject or on the concepts that are most challenging to you? Like the Hare, your focus may change before the end of the race.  You may skim over content that you feel you have a firm understanding of in favor of focusing on topics that feel less confident about.  Your focus may not be as consistent or as strong as it needs to be for the duration of your study or exam preparation time. The advantage of a short-term study schedule is that you gain a sense of confidence as you “check off” the topics and concepts you feel confident about.</p>
 
-<p>{% img right /images/panic.jpeg &ldquo;Panic&rdquo; %}</p>
+<p><img class="right" src="/images/panic.jpeg" title="&ldquo;Panic&rdquo;" ></p>
 
 <p><strong>Panic Study Schedules</strong> usually happen “the night before” the exam – when you realize that you do not have enough time to adequately prepare for your exam.  Although this study schedule requires the least amount of time commitment, it rarely allows you to achieve your potential.  Like the Hare, leaving too much to the end makes it impossible to finish what needs to be done.  However, any effort is better than doing nothing.</p>
 

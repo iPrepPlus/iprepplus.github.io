@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Alberta Education | Diplomax]]></title>
   <link href="http://blog.diplomax.ca//blog/categories/alberta-education/atom.xml" rel="self"/>
   <link href="http://blog.diplomax.ca//"/>
-  <updated>2016-11-03T22:47:45-06:00</updated>
+  <updated>2016-12-18T10:31:46-07:00</updated>
   <id>http://blog.diplomax.ca//</id>
   <author>
     <name><![CDATA[Diplomax]]></name>
@@ -14,11 +14,38 @@
 
   
   <entry>
+    <title type="html"><![CDATA[iPrep Plus – Electronic Study Notes and Video Support]]></title>
+    <link href="http://blog.diplomax.ca//iprep-plus-electronic-study-notes-and-video-support/"/>
+    <updated>2016-12-18T10:14:00-07:00</updated>
+    <id>http://blog.diplomax.ca//iprep-plus-electronic-study-notes-and-video-support</id>
+    <content type="html"><![CDATA[<p>{% img center /images/iprep.png iPrep %}</p>
+
+<p>The <strong>iPrep Plus Electronic Study Notes and Video Support</strong> resources are unique!  The resources are an electronic resource package that can be downloaded to a personal device or printed and used at home.  They combine comprehensive study notes with short videos to help you independently review course content and clarify understanding.</p>
+
+<!--more-->
+
+
+<p></p>
+
+<p>The color-coding in the electronic study notes provides hints, reminders, and important things to remember about key concepts.  The electronic study notes can assist you in completing class assignments, reviewing for in-class unit tests and quizzes, and preparing for the diploma exams.  Each resource is from 50-150 pages in length and covers the complete course content.</p>
+
+<p>The resource package also includes <em>10 Support Videos</em> designed to support classroom instruction and learning.  Each video is approximately 8 to 12 minutes in length and focuses on the ‘tough topics’ that students often find challenging.  You can watch the videos as many times as needed to ensure you understand the concept and are confident in your ability to interpret and apply the information in your daily life.</p>
+
+<p>iPrep Plus Electronic Study Notes and Video Support resources are available for Biology 30, Chemistry 30, English 30-1, Math 30-1, Math 30-2, Physics 30, Science 30, and Social Studies 30-1.  These resources provide <em>year-long support</em> for approximately the same cost of one hour of traditional tutoring!  You can access them anytime, anywhere, and on any device.  Use the Electronic Study Notes and Video Support resources to help you achieve strong grades at the end of the semester and on the diploma exams!</p>
+
+<p>Check out <a href="http://www.diplomax.ca">DIPLOMAX.ca</a>for the schedule of review sessions, FAQs, facility photos, arriving for the first class, and to register in the class of your choice.  Don’t delay as space is limited!</p>
+
+<p><a href="http://www.diplomax.ca">DIPLOMAX.ca</a>
+Year-long Support to Classroom Learning.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[DIPLOMAX In-Class – the Tradition Continues]]></title>
     <link href="http://blog.diplomax.ca//diplomax-in-class-the-tradition-continues/"/>
     <updated>2016-11-03T22:09:11-06:00</updated>
     <id>http://blog.diplomax.ca//diplomax-in-class-the-tradition-continues</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/blog-nov-3.png" title="Question" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/blog-nov-3.png Question %}</p>
 
 <p>Tutorial and diploma prep classes have long been offering services to students preparing to write the January and June provincial diploma exams.  For Edmonton and area students, DIPLOMAX In-Class is offering face-to-face, diploma prep review sessions in Biology 30, Chemistry 30, English 30-1, Math 30-1, Math 30-2, Physics 30, Science 30, and Social 30-1.  The comprehensive review sessions in each subject are scheduled from 9:00 am to 5:00 pm on Saturday and Sunday. The classes are held at the University of Alberta Edmonton Campus.  The two-day format makes it easier for students who work or are travelling from surrounding areas to participate in the review sessions.</p>
 
@@ -41,7 +68,7 @@ Year-long Support to Classroom Learning.</p>
     <link href="http://blog.diplomax.ca//press-release-province-wide-launch-of-diplomax-dot-ca/"/>
     <updated>2016-10-17T21:21:43-06:00</updated>
     <id>http://blog.diplomax.ca//press-release-province-wide-launch-of-diplomax-dot-ca</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIPLOMAX.CA.png" title="Question" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/DIPLOMAX.CA.png Question %}</p>
 
 <p>Writing any diploma exams this year?  Looking for face-to-face help to prepare for the January or June diplomas?  DIPLOMAX In-Class has it for Edmonton and areas students!  Don’t live close enough to Edmonton to participate?  Don’t worry!  DIPLOMAX On-Line is for you!  It is a comprehensive VIDEO REVIEW that comes with a complimentary copy of the Instructor’s Study Notes.  Looking for something that you can use all year long with class assignments, quizzes and unit tests?  iPrep Plus has just what you are looking for!  Use the electronic study notes with video support for the 10 toughest topics!</p>
 
@@ -64,7 +91,7 @@ Year-long Support to Classroom Learning.</p>
     <link href="http://blog.diplomax.ca//iprep-plus-gives-students-leg-up/"/>
     <updated>2016-05-17T17:42:35-06:00</updated>
     <id>http://blog.diplomax.ca//iprep-plus-gives-students-leg-up</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/student_edge.jpg" title="Question" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/student_edge.jpg Question %}</p>
 
 <p>High-stakes diploma exams in January and June are always a challenge for grade 12 students.   These provincial exams count for 30% of your final grade but the other 70% comes from your efforts on school-based assessments.</p>
 
@@ -101,43 +128,16 @@ For Edmonton and area face-to-face review classes in January and June check  <a 
     <id>http://blog.diplomax.ca//math-30-2-sample-question-and-solution-for-set-theory-number-3</id>
     <content type="html"><![CDATA[<p>Try this sample question to gauge your diploma preparation for Math 30-2!</p>
 
-<p><img class="center" src="/images/question_SetTheory_1.png" title="Question" ></p>
+<p>{% img center /images/question_SetTheory_1.png Question %}</p>
 
 <!--more-->
 
 
 <p></p>
 
-<p><img class="center" src="/images/question_SetTheory_2.png" title="Question" ></p>
+<p>{% img center /images/question_SetTheory_2.png Question %}</p>
 
-<p><img class="center" src="/images/question_SetTheory_3.png" title="Question" ></p>
-
-<p>Check out the web site <a href="http://www.iPrepPlus.com">www.iPrepPlus.com</a> for the <strong>introductory price offer</strong> and many features!</p>
-
-<p>If you are serious about your academic success – <strong>iPrep Plus</strong> and <strong>Diplomax</strong> are here to help you!</p>
-
-<p><em>iPrep Plus – Year-long Support for Classroom Learning</em>
-More than you imagined for less than you expected – electronic study notes and video support for tough topics!
-<a href="http://www.iPrepPlus.com">www.iPrepPlus.com</a></p>
-
-<p><em>Diplomax – Your Premier Choice for Diploma Prep</em>
-For Edmonton and area face-to-face review classes in January and June check  <a href="http://www.primetimelearning.ca">www.primetimelearning.ca</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Math 30-1 — Sample Question and Solution for Sinusoidal Functions #2]]></title>
-    <link href="http://blog.diplomax.ca//math-30-1-sample-question-and-solution-for-sinusoidal-functions-number-2/"/>
-    <updated>2016-05-08T11:56:02-06:00</updated>
-    <id>http://blog.diplomax.ca//math-30-1-sample-question-and-solution-for-sinusoidal-functions-number-2</id>
-    <content type="html"><![CDATA[<p>Try this sample question to gauge your diploma preparation for Math 30-1!</p>
-
-<!--more-->
-
-
-<p></p>
-
-<p><img class="center" src="/images/question2.png" title="Question" ></p>
+<p>{% img center /images/question_SetTheory_3.png Question %}</p>
 
 <p>Check out the web site <a href="http://www.iPrepPlus.com">www.iPrepPlus.com</a> for the <strong>introductory price offer</strong> and many features!</p>
 

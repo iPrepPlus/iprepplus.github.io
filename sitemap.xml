@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.diplomax.ca//diploma-prep-study-options/</loc>
+    <lastmod>2018-05-07T19:26:47-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://blog.diplomax.ca//not-only-authors-but-exceptional-educators/</loc>
     <lastmod>2017-05-23T18:45:58-06:00</lastmod>
   </url>
@@ -173,5 +177,11 @@
   </url>
   <url>
     <loc>http://blog.diplomax.ca//blog/categories/primetime/</loc>
+  </url>
+  <url>
+    <loc>http://blog.diplomax.ca//posts/2/</loc>
+  </url>
+  <url>
+    <loc>http://blog.diplomax.ca//posts/3/</loc>
   </url>
 </urlset>

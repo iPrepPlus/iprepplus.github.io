@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Exponential Functions | Diplomax]]></title>
   <link href="http://blog.diplomax.ca//blog/categories/exponential-functions/atom.xml" rel="self"/>
   <link href="http://blog.diplomax.ca//"/>
-  <updated>2018-05-12T11:40:28-06:00</updated>
+  <updated>2018-05-12T12:23:49-06:00</updated>
   <id>http://blog.diplomax.ca//</id>
   <author>
     <name><![CDATA[Diplomax]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.diplomax.ca//iprep-plus-gives-students-leg-up/"/>
     <updated>2016-05-17T17:42:35-06:00</updated>
     <id>http://blog.diplomax.ca//iprep-plus-gives-students-leg-up</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/student_edge.jpg" title="Question" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/student_edge.jpg Question %}</p>
 
 <p>High-stakes diploma exams in January and June are always a challenge for grade 12 students.   These provincial exams count for 30% of your final grade but the other 70% comes from your efforts on school-based assessments.</p>
 
@@ -55,16 +55,16 @@ For Edmonton and area face-to-face review classes in January and June check  <a 
     <id>http://blog.diplomax.ca//math-30-2-sample-question-and-solution-for-set-theory-number-3</id>
     <content type="html"><![CDATA[<p>Try this sample question to gauge your diploma preparation for Math 30-2!</p>
 
-<p><img class="center" src="/images/question_SetTheory_1.png" title="Question" ></p>
+<p>{% img center /images/question_SetTheory_1.png Question %}</p>
 
 <!--more-->
 
 
 <p></p>
 
-<p><img class="center" src="/images/question_SetTheory_2.png" title="Question" ></p>
+<p>{% img center /images/question_SetTheory_2.png Question %}</p>
 
-<p><img class="center" src="/images/question_SetTheory_3.png" title="Question" ></p>
+<p>{% img center /images/question_SetTheory_3.png Question %}</p>
 
 <p>Check out the web site <a href="http://www.iPrepPlus.com">www.iPrepPlus.com</a> for the <strong>introductory price offer</strong> and many features!</p>
 
@@ -91,7 +91,7 @@ For Edmonton and area face-to-face review classes in January and June check  <a 
 
 <p></p>
 
-<p><img class="center" src="/images/question2.png" title="Question" ></p>
+<p>{% img center /images/question2.png Question %}</p>
 
 <p>Check out the web site <a href="http://www.iPrepPlus.com">www.iPrepPlus.com</a> for the <strong>introductory price offer</strong> and many features!</p>
 
@@ -122,7 +122,7 @@ For Edmonton and area face-to-face review classes in January and June check  <a 
 
 <p></p>
 
-<p><img class="center" src="/images/question1.png" title="Question" ></p>
+<p>{% img center /images/question1.png Question %}</p>
 
 <p>Check out the web site <a href="http://www.iPrepPlus.com">www.iPrepPlus.com</a> for the <strong>introductory price offer</strong> and many features!</p>
 

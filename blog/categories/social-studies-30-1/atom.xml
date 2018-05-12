@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Social Studies 30-1 | Diplomax]]></title>
   <link href="http://blog.diplomax.ca//blog/categories/social-studies-30-1/atom.xml" rel="self"/>
   <link href="http://blog.diplomax.ca//"/>
-  <updated>2018-05-12T11:40:28-06:00</updated>
+  <updated>2018-05-12T12:23:49-06:00</updated>
   <id>http://blog.diplomax.ca//</id>
   <author>
     <name><![CDATA[Diplomax]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.diplomax.ca//diploma-prep-study-options/"/>
     <updated>2018-05-07T19:26:47-06:00</updated>
     <id>http://blog.diplomax.ca//diploma-prep-study-options</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/blog_4.jpg" title="teacher" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/blog_4.jpg teacher %}</p>
 
 <p>The new semester is now underway!  We are pleased to remind you that <strong><a href="http://www.diplomax.ca">DIPLOMAX.ca</a></strong>  is now accepting registrations for the June <strong>DIPLOMAX In-Class</strong> sessions.  Check out the schedule and register early to secure a spot in the class and session of your choice. Remember – as soon as you complete your registration, you can immediately start to use the Instructor’s Study Notes package to support your classroom instruction.</p>
 
@@ -43,7 +43,7 @@ Year-long Support to Classroom Learning.</p>
     <link href="http://blog.diplomax.ca//not-only-authors-but-exceptional-educators/"/>
     <updated>2017-05-23T18:45:58-06:00</updated>
     <id>http://blog.diplomax.ca//not-only-authors-but-exceptional-educators</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/teacher.jpg" title="teacher" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/teacher.jpg teacher %}</p>
 
 <p>When there are so many self-help books on the market, how many can you buy, and how do you know which ones will actually be useful?  The answer is easy!  Look for the educational resources that have been developed by experienced educators who have a strong reputation for helping student achieve remarkable results.</p>
 
@@ -68,7 +68,7 @@ Year-long Support to Classroom Learning.</p>
     <link href="http://blog.diplomax.ca//finding-help-to-support-classroom-learning/"/>
     <updated>2017-04-22T20:43:29-06:00</updated>
     <id>http://blog.diplomax.ca//finding-help-to-support-classroom-learning</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/sweat-confusion.jpg" title="confused" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/sweat-confusion.jpg confused %}</p>
 
 <p>How many times have you left class and thought <em>“None of this makes sense to me!</em>”?  How many times have you felt your confidence drain away as your tried to complete a major assignment?  How many times have you tried unsuccessfully to apply the formulas you thought you understood in class, to your homework questions to find that you couldn’t remember the steps in the process?  Nothing is more frustrating than trying your hardest to do well but not having the extra help at home when you need it most!</p>
 
@@ -92,7 +92,7 @@ Year-long Support to Classroom Learning.
     <link href="http://blog.diplomax.ca//what-comes-next/"/>
     <updated>2017-04-12T18:06:00-06:00</updated>
     <id>http://blog.diplomax.ca//what-comes-next</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/what_comes_next.jpg" title="what_comes_next" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/what_comes_next.jpg what_comes_next %}</p>
 
 <p>Remember when you started school and everyone asked you what you wanted to be when you grew up?  It seemed like there were endless possibilities and lots of time for you to decide what you wanted to be and what you wanted do.  Now, suddenly it seems, you are ending your high school career and people are again asking you, “What are you going to do?”  “What comes next?” is a BIG question – and being a Super Hero is a less likely career option.</p>
 
@@ -117,7 +117,7 @@ Year-long Support to Classroom Learning.</p>
     <link href="http://blog.diplomax.ca//second-semester-study-options/"/>
     <updated>2017-04-03T19:26:14-06:00</updated>
     <id>http://blog.diplomax.ca//second-semester-study-options</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/coffee_book.jpg" title="iPrep" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/coffee_book.jpg iPrep %}</p>
 
 <p>The new semester is now underway!  We are pleased to remind you that <a href="http://www.diplomax.ca">DIPLOMAX.ca</a> is now accepting registrations for the June <strong>DIPLOMAX In-Class</strong> sessions.  Check out the schedule and register early to secure a spot in the class and session of your choice. Remember – as soon as you complete your registration, you can immediately start to use the Instructor’s Study Notes package to support your classroom instruction.</p>
 
